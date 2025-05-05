@@ -8,7 +8,7 @@
 <body>
     <?php include "layout/header.html"?>
     <main>
-        <p>HALO SELAMAT DATANG DI WEBSITE PASCOL!!!!</p>
+        <p>WELCOME TO THIS WEBSITE</p>
     </main>
     <?php include "layout/footer.html"?>
 </body>
